@@ -153,4 +153,6 @@ switch (salis) {
     case "vokietija":
         console.log(`Hallo`);
         break;
+    default:
+        console.log(`Kalbos nera`);
 }
